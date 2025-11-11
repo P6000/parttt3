@@ -121,6 +121,8 @@ Before Part 3:
 - Limited separation of logic and presentation
 - Inline calculations and data management
 
+After Part 3:
+
 ## UI/UX IMPROVEMENTS
 Professional Styling
 -Color Scheme: Professional green and white theme (#2e7d32 primary)
@@ -176,5 +178,5 @@ Professional Styling
 
 -Use functions to organise code - Separated concerns and modular architecture
 
-After Part 3:
+
 
