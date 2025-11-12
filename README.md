@@ -1,5 +1,5 @@
-ST10492650
-PHUMELELO TAU
+## ST10492650
+## PHUMELELO TAU
 
 # MAST5112 - Mobile App Scripting - Portfolio of Evidence (Part 3)
 
@@ -41,17 +41,9 @@ This app serves as a digital menu management system that allows Chef Christoffel
 - Success/error alerts for user feedback
 - Responsive design for mobile devices
 
-├── App.tsx # Main application with navigation
-│ ├── HomeScreen.tsx # Main menu display with statistics
-│ ├── AddDMenuItem.tsx # Separate dish addition screen
-│ └── FilterScreen.tsx # Course filtering functionality
-│ └── Dish.ts # TypeScript type definitions
-│ └── calculations.ts # Utility functions with loops
-└── menuData.ts # Global data management
 
 
-
-## 🔧 Technical Implementation
+##  Technical Implementation
 
 ### TypeScript Features Demonstrated
 - For Loops: Used in `calculateTotalDishes()` and `calculateOverallAverage()`
