@@ -80,7 +80,7 @@ Implementatio: Added comprehensive average calculation system
 
 ### 2. Separate Add Menu Item 
 Implementation: Completely moved from homepage to dedicated screen
-- File: /AddDishScreen.tsx`
+- File: /AddMenuItems.tsx`
 - Features:
   - Full form validation for all fields (name, description, category, price)
   - Category selection with visual feedback
